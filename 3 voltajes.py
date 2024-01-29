@@ -19,6 +19,9 @@ if (promedio) <115:
 elif (promedio >= 115) and (promedio <220):
     print("ALTO VOLTAJE")
 elif (promedio) >= 220:
+
+
+    sfdf
     print("PELIGROO")
 os.system('pause')
 
